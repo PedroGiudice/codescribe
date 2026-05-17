@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
-  "requestFramePermissions": [],
+  "name": "CodeScribe AI",
+  "description": "AI coding assistant with STT and TTS capabilities",
+  "requestFramePermissions": ["microphone"],
   "majorCapabilities": []
 }
